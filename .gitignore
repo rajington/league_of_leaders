@@ -62,3 +62,6 @@ venv/
 # iPython notebook
 *.ipynb
 .ipynb_checkpoints/
+
+# API KEY
+API_KEY.py
